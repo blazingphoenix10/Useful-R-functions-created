@@ -1,3 +1,3 @@
 # Useful-R-functions-created
 
-## Given a list of ENSEMBL IDs convert it to HGNC symbols
+map_ENS_ID_to_HGNC.R - given a list of ENSEMBL IDs convert it to HGNC symbols
